@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Module14_Challenge
 
 ## Interactive_Visualizations_Challenge
@@ -38,3 +39,9 @@ Deploy your app to a free static page hosting service, such as GitHub Pages. Sub
 
 https://alvin-giang.github.io/Module14_Challenge/
 
+=======
+## Module14_Challenge
+#Interactive_Visualizations_Challenge
+
+#
+>>>>>>> 48883058a330f2938f316923d233527616307f99
